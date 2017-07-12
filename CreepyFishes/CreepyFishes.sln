@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreepyFishes.Plugins", "CreepyFishes.Plugins.csproj", "{7EE38D8B-404E-4BEC-0B23-14B1F87006AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreepyFishes", "CreepyFishes.csproj", "{2FD7C3C6-CF67-F94B-641D-E0EE80ADCB7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreepyFishes.Editor", "CreepyFishes.Editor.csproj", "{4AE51B4A-E0BB-73D0-8E3C-21C12355B81C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EE38D8B-404E-4BEC-0B23-14B1F87006AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE38D8B-404E-4BEC-0B23-14B1F87006AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE38D8B-404E-4BEC-0B23-14B1F87006AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE38D8B-404E-4BEC-0B23-14B1F87006AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD7C3C6-CF67-F94B-641D-E0EE80ADCB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD7C3C6-CF67-F94B-641D-E0EE80ADCB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD7C3C6-CF67-F94B-641D-E0EE80ADCB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD7C3C6-CF67-F94B-641D-E0EE80ADCB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE51B4A-E0BB-73D0-8E3C-21C12355B81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE51B4A-E0BB-73D0-8E3C-21C12355B81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE51B4A-E0BB-73D0-8E3C-21C12355B81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE51B4A-E0BB-73D0-8E3C-21C12355B81C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
